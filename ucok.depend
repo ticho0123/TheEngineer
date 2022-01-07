@@ -1,0 +1,356 @@
+# depslib dependency file v1.0
+1577184467 source:c:\users\hp\music\tubes asli\gab\bunga.cpp
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	"bunga.h"
+	"main.h"
+
+1577183743 c:\users\hp\music\tubes asli\gab\bunga.h
+	<iostream>
+
+1577182248 c:\users\hp\music\tubes asli\gab\main.h
+
+1577185294 source:c:\users\hp\music\tubes asli\gab\go.cpp
+	<iostream>
+	<stdlib.h>
+	"go.h"
+	"main.h"
+	<time.h>
+	<conio.h>
+	<cmath>
+
+1577182818 c:\users\hp\music\tubes asli\gab\go.h
+	<iostream>
+
+1577184664 source:c:\users\hp\music\tubes asli\gab\ihk.cpp
+	<iostream>
+	<stdlib.h>
+	"ihk.h"
+	"main.h"
+	<time.h>
+	<conio.h>
+	<cmath>
+
+1577183191 c:\users\hp\music\tubes asli\gab\ihk.h
+	<iostream>
+
+1577185110 source:c:\users\hp\music\tubes asli\gab\nometri.cpp
+	<iostream>
+	<stdlib.h>
+	"nometri.h"
+	"main.h"
+	<time.h>
+	<conio.h>
+	<cmath>
+
+1577183161 c:\users\hp\music\tubes asli\gab\nometri.h
+	<iostream>
+
+1577189139 source:c:\users\hp\music\tubes asli\gab\tri.cpp
+	<iostream>
+	<stdlib.h>
+	"tri.h"
+	"main.h"
+	<time.h>
+	<conio.h>
+	<cmath>
+
+1577183233 c:\users\hp\music\tubes asli\gab\tri.h
+	<iostream>
+
+1577184878 source:c:\users\hp\music\tubes asli\gab\main.cpp
+	<time.h>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"bunga.h"
+	"go.h"
+	"ihk.h"
+	"main.h"
+	"nometri.h"
+	"tri.h"
+
+1578415928 source:c:\users\tuf gaming\downloads\a\bunga.cpp
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	"bunga.h"
+	"main.h"
+	<conio.h>
+
+1578079290 c:\users\tuf gaming\downloads\a\bunga.h
+	<iostream>
+
+1578409622 c:\users\tuf gaming\downloads\a\main.h
+
+1578416313 source:c:\users\tuf gaming\downloads\a\go.cpp
+	<iostream>
+	<stdlib.h>
+	"go.h"
+	"main.h"
+	<time.h>
+	<conio.h>
+	<cmath>
+
+1578040598 c:\users\tuf gaming\downloads\a\go.h
+	<iostream>
+
+1578416064 source:c:\users\tuf gaming\downloads\a\ihk.cpp
+	<iostream>
+	<stdlib.h>
+	"ihk.h"
+	"main.h"
+	<time.h>
+	<conio.h>
+	<cmath>
+
+1578066119 c:\users\tuf gaming\downloads\a\ihk.h
+	<iostream>
+
+1578498720 source:c:\users\tuf gaming\downloads\a\main.cpp
+	<time.h>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"bunga.h"
+	"go.h"
+	"ihk.h"
+	"main.h"
+	"nometri.h"
+	"tri.h"
+	"eksponen.h"
+	"Luasjajargenjang.h"
+	"matrix.h"
+	"mean.h"
+	"u4.h"
+
+1578040598 c:\users\tuf gaming\downloads\a\nometri.h
+	<iostream>
+
+1578064661 c:\users\tuf gaming\downloads\a\tri.h
+	<iostream>
+
+1578416313 source:c:\users\tuf gaming\downloads\a\nometri.cpp
+	<iostream>
+	<stdlib.h>
+	"nometri.h"
+	"main.h"
+	<time.h>
+	<conio.h>
+	<cmath>
+
+1578416149 source:c:\users\tuf gaming\downloads\a\tri.cpp
+	<iostream>
+	<stdlib.h>
+	"tri.h"
+	"main.h"
+	<time.h>
+	<conio.h>
+	<cmath>
+
+1578416636 source:c:\users\tuf gaming\downloads\a\luasjajargenjang.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Luasjajargenjang.h"
+	"main.h"
+	<conio.h>
+
+1577972869 c:\users\tuf gaming\downloads\a\luasjajargenjang.h
+	<iostream>
+
+1578417554 source:c:\users\tuf gaming\downloads\a\meantubes.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"mean.h"
+	"main.h"
+	<conio.h>
+
+1578037117 c:\users\tuf gaming\downloads\a\mean.h
+	<iostream>
+
+1577980562 source:c:\users\tuf gaming\downloads\a\penguranganmatrix.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"matrix.h"
+
+1578077127 c:\users\tuf gaming\downloads\a\matrix.h
+	<iostream>
+
+1576647550 source:c:\users\tuf gaming\downloads\a\penjumlahanmatrix.cpp
+	<iostream>
+	"matrix.h"
+
+1578411270 source:c:\users\tuf gaming\downloads\a\perkalianskalar.cpp
+	<iostream>
+	"matrix.h"
+	<conio.h>
+	<windows.h>
+
+1578492655 source:c:\users\tuf gaming\downloads\a\soalpengurangan.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"matrix.h"
+	<conio.h>
+	"main.h"
+
+1578498897 source:c:\users\tuf gaming\downloads\a\soalpenjumlahan.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"matrix.h"
+	"main.h"
+	<conio.h>
+
+1578492360 source:c:\users\tuf gaming\downloads\a\soalperkalianskalar.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"matrix.h"
+	"main.h"
+	<conio.h>
+
+1578492191 source:c:\users\tuf gaming\downloads\a\soaltranspose.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"matrix.h"
+	<conio.h>
+	"main.h"
+
+1578494171 source:c:\users\tuf gaming\downloads\a\eksponen.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"EKSPONEN.h"
+	"main.h"
+	<conio.h>
+
+1578079022 c:\users\tuf gaming\downloads\a\eksponen.h
+	<iostream>
+
+1578411300 source:c:\users\tuf gaming\downloads\a\transposematrix.cpp
+	<iostream>
+	"matrix.h"
+	<conio.h>
+	<windows.h>
+
+1578416636 source:c:\users\tuf gaming\downloads\a\u4a.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"u4.h"
+	"main.h"
+	<conio.h>
+
+1578062616 c:\users\tuf gaming\downloads\a\u4.h
+	<iostream>
+
+1578416636 source:c:\users\tuf gaming\downloads\a\u4b.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"u4.h"
+	"main.h"
+	<conio.h>
+
+1578416637 source:c:\users\tuf gaming\downloads\a\u4c.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"u4.h"
+	<conio.h>
+	"main.h"
+
+1578410544 source:c:\users\tuf gaming\downloads\a\trigonometri.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	"tri.h"
+	<conio.h>
+	<windows.h>
+
+1578410544 source:c:\users\tuf gaming\downloads\a\segitiga.cpp
+	<iostream>
+	<cmath>
+	"ihk.h"
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1578410544 source:c:\users\tuf gaming\downloads\a\bungatunggal.cpp
+	<iostream>
+	<conio.h>
+	"bunga.h"
+	<stdlib.h>
+
+1578410617 source:c:\users\tuf gaming\downloads\a\penguranganmatrixlur.cpp
+	<iostream>
+	"matrix.h"
+	<conio.h>
+	<windows.h>
+
+1578410544 source:c:\users\tuf gaming\downloads\a\penjumlahanmatrixlur.cpp
+	<iostream>
+	"matrix.h"
+	<conio.h>
+	<windows.h>
+
+1578411183 source:c:\users\tuf gaming\downloads\a\hitungsuku.cpp
+	<iostream>
+	"main.h"
+	<conio.h>
+	<windows.h>
+
+1578411190 source:c:\users\tuf gaming\downloads\a\jumlaharitmatika.cpp
+	<iostream>
+	<conio.h>
+	"main.h"
+	<windows.h>
+
+1578078251 source:c:\users\tuf gaming\downloads\a\meanslur.cpp
+
+1578411153 source:c:\users\tuf gaming\downloads\a\eksponenslur.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"EKSPONEN.h"
+	"main.h"
+	<conio.h>
+
+1578411342 source:c:\users\tuf gaming\downloads\a\persamaanlinierss.cpp
+	<iostream>
+	<math.h>
+	"main.h"
+	<conio.h>
+	<windows.h>
+
+1578411169 source:c:\users\tuf gaming\downloads\a\jajargenjang.cpp
+	<iostream>
+	"main.h"
+	<conio.h>
+	<windows.h>
+
+1578497078 source:c:\users\tuf gaming\downloads\a\meangud.cpp
+	<iostream>
+	"main.h"
+	<conio.h>
+	<windows.h>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ucok" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ucok" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ucok" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Luasjajargenjang.cpp" />
+		<Unit filename="Luasjajargenjang.h" />
+		<Unit filename="bunga.cpp" />
+		<Unit filename="bunga.h" />
+		<Unit filename="bungatunggal.cpp" />
+		<Unit filename="eksponen.cpp" />
+		<Unit filename="eksponen.h" />
+		<Unit filename="eksponenslur.cpp" />
+		<Unit filename="go.cpp" />
+		<Unit filename="go.h" />
+		<Unit filename="hitungsuku.cpp" />
+		<Unit filename="ihk.cpp" />
+		<Unit filename="ihk.h" />
+		<Unit filename="jajargenjang.cpp" />
+		<Unit filename="jumlaharitmatika.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="matrix.h" />
+		<Unit filename="mean.h" />
+		<Unit filename="meangud.cpp" />
+		<Unit filename="meantubes.cpp" />
+		<Unit filename="nometri.cpp" />
+		<Unit filename="nometri.h" />
+		<Unit filename="penguranganmatrixlur.cpp" />
+		<Unit filename="penjumlahanmatrixlur.cpp" />
+		<Unit filename="perkalianSkalar.cpp" />
+		<Unit filename="persamaanlinierss.cpp" />
+		<Unit filename="segitiga.cpp" />
+		<Unit filename="soalPengurangan.cpp" />
+		<Unit filename="soalPenjumlahan.cpp" />
+		<Unit filename="soalPerkalianSkalar.cpp" />
+		<Unit filename="soalTranspose.cpp" />
+		<Unit filename="transposeMatrix.cpp" />
+		<Unit filename="tri.cpp" />
+		<Unit filename="tri.h" />
+		<Unit filename="trigonometri.cpp" />
+		<Unit filename="u4.h" />
+		<Unit filename="u4a.cpp" />
+		<Unit filename="u4b.cpp" />
+		<Unit filename="u4c.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
